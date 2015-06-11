@@ -1,3 +1,16 @@
+# 1.1.0
+
+*Store validation pending...*
+
+* Strongly reduces application size
+* Compatible with OSX 10.7 and upper
+
+> /!\ Disclaimer - because of a recurring issue noticed by some of our users, drag&drop support has been temporarily disabled.
+>
+> Drag&drop is still available on the "Add files..." dialog in the main window.
+>
+> We apologize for the inconvenience.
+
 # 1.0.1
 
 *Build 105 - May 15th, 2015*
