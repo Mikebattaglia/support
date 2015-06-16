@@ -1,6 +1,6 @@
 # 1.1.0
 
-*Store validation pending...*
+*Build 110 - June 16th, 2015*
 
 * Strongly reduces application size
 * Compatible with OSX 10.7 and upper
