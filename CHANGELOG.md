@@ -1,3 +1,10 @@
+# 1.1.1
+
+*Build 111 - Validation pending*
+
+* Minor bug fixes
+* Restores drag&drop support
+
 # 1.1.0
 
 *Build 110 - June 16th, 2015*
