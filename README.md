@@ -9,7 +9,7 @@ Welcome on the [Namagic](http://www.namagicapp.com) support platform.
 
 ### 1.1.1
 
-*Build 111 - Validation pending*
+*Build 111 - June 29th, 2015*
 
 * Minor bug fixes
 * Restores drag&drop support
