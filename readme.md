@@ -9,7 +9,7 @@ Welcome on the [Namagic](http://www.namagicapp.com) support platform.
 
 ### 1.2.0
 
-*Awaiting validation - September 2015*
+*Build 120 - September 19th, 2015*
 
 * Adds leading zeros option on the digits sequence action
 * Adds French translation
